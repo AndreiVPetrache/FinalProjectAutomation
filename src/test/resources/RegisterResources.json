@@ -1,0 +1,17 @@
+{
+  "genderField": "gender",
+  "passwordField": "T3$t123",
+  "daysField": "28",
+  "monthsField": "November",
+  "yearsField": "1995",
+  "firstNameField": "Andrei",
+  "lastNameField": "Test",
+  "addressField": "First Avenue no. 13",
+  "countryField": "United States",
+  "stateField": "Illinois",
+  "cityField": "Chicago",
+  "zipCodeField": "60007",
+  "phoneNumberField": "0722222222",
+  "userName": "andrei.v.petrache",
+  "userEmail": "andrei.v.petrache@gmail.com"
+}
